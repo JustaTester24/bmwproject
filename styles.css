@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    color: #82a5ca;
+    text-align: center;
+    font-family: "Cardo", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+    
+
+
+
+.bmw-img {
+    margin: 0px;
+    width: 100%;
+    height: 400px;
+
+    background-image: url("/images/200.webp");
+    background-size: cover;
+
+
+   
